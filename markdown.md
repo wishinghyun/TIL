@@ -69,7 +69,7 @@
 print('hi')
 ```
 
-``` python
+``` sql
 --sq1 주석
 SELECT * FROM table;
 ```
